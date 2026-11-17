@@ -1,5 +1,21 @@
 # 🛡️ Skill-Auditor Desktop
 
+> **Abgelöst:** Diese Fassung wird nicht mehr weiterentwickelt. Sie ist ersetzt
+> durch [ki-stuff/skill-auditor](https://github.com/ki-stuff/skill-auditor) ab
+> Version 2.7, eine Fassung für Claude Code, Claude Desktop, claude.ai und
+> Cowork. Bitte `skill-auditor-desktop` unter *Customize → Skills* entfernen und
+> das aktuelle ZIP aus `skill-auditor` hochladen.
+>
+> **Superseded:** this edition is no longer maintained and is replaced by
+> [ki-stuff/skill-auditor](https://github.com/ki-stuff/skill-auditor) from
+> version 2.7 (one edition for Claude Code, Claude Desktop, claude.ai and
+> Cowork).
+>
+> Fehler, Fehlalarme und Fragen bitte als
+> [GitHub-Issue im Nachfolge-Repo](https://github.com/ki-stuff/skill-auditor/issues)
+> melden. Das Projekt wird freiwillig gepflegt; Antwort oder Behebung sind
+> nicht zugesagt.
+
 ## 🇩🇪 Kurzbeschreibung
 
 **Skills sind Prompts. Manche bringen Scripts mit. Beides kann feindlich
