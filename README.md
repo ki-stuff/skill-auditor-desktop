@@ -91,9 +91,12 @@ regex shown as a documentation example isn't a live injection.
 
 ## Setup
 
-1. Download [`skill-auditor-desktop.zip`](https://github.com/ki-stuff/skill-auditor-desktop/releases)
-   (or clone this repo and zip the `skill-auditor-desktop/` folder yourself —
-   it must be the zip's root, not nested in a subfolder).
+1. **Recommended:** use the successor instead and download the current
+   `skill-auditor` ZIP from its
+   [latest release](https://github.com/ki-stuff/skill-auditor/releases/latest).
+   This repo has no release packages; to use this superseded edition anyway,
+   clone it and zip the `skill-auditor-desktop/` folder yourself (it must be
+   the zip's root, not nested in a subfolder).
 2. On claude.ai (or Claude Desktop): **Settings → Features → Custom Skills →
    Upload**. Requires a Pro/Max/Team/Enterprise plan with code execution
    enabled.
